@@ -1,4 +1,11 @@
 ## Main
+[![MegaLinter](https://github.com/ScottGibb/Drawio-Libraries/actions/workflows/mega-linter.yaml/badge.svg)](https://github.com/ScottGibb/Drawio-Libraries/actions/workflows/mega-linter.yaml)
+
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+    <img src="docs\Languages-And-Tools.drawio.svg" alt="Languages and Tools">
+</div>
+<!-- markdownlint-enable MD033 -->
 
 ## Summary
 
