@@ -1,4 +1,4 @@
-## Drawio Libraries
+# Drawio Libraries
 
 [![MegaLinter](https://github.com/ScottGibb/Drawio-Libraries/actions/workflows/mega-linter.yaml/badge.svg)](https://github.com/ScottGibb/Drawio-Libraries/actions/workflows/mega-linter.yaml)
 
