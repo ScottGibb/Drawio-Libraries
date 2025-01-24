@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+      "DavidAnson.vscode-markdownlint",
+      "redhat.vscode-yaml",
+      "esbenp.prettier-vscode",
+      "hediet.vscode-drawio",
+      "github.vscode-github-actions"
+    ]
+  }
