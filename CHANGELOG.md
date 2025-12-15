@@ -2,7 +2,6 @@
 
 ## [1.1.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.0.0...v1.1.0) (2025-12-15)
 
-
 ### Features
 
 * **ci:** Add new Dependabot Auto Merge ([359201d](https://github.com/ScottGibb/Drawio-Libraries/commit/359201d362f534b46659f5dadedd556097280baa))
