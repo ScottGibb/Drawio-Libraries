@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.1.0...v1.2.0) (2026-01-27)
+
+
+### Features
+
+* add frameworks ([44b4c59](https://github.com/ScottGibb/Drawio-Libraries/commit/44b4c591b0727820b7844dac2c8c007dc1878129))
+
 ## [1.1.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.0.0...v1.1.0) (2025-12-15)
 
 ### Features
