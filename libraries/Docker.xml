@@ -5,5 +5,11 @@
     "h": 90,
     "aspect": "fixed",
     "title": "Docker"
+  },
+  {
+    "data": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/docker-compose.webp",
+    "w": 391,
+    "h": 497,
+    "title": "Docker Compose"
   }
 ]</mxlibrary>
