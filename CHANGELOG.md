@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.2.0...v1.3.0) (2026-08-17)
+
+
+### Features
+
+* Update Docker.xml ([9f0f682](https://github.com/ScottGibb/Drawio-Libraries/commit/9f0f682b5b1eb20f4cabd73bd5f2ac15dcd3c474))
+* Update Docker.xml ([195bb12](https://github.com/ScottGibb/Drawio-Libraries/commit/195bb1245ac89716eec66fbd4c5eba98e664a4f5))
+
+
+### Bug Fixes
+
+* **docs:** docs/languages_and_tools.drawio.svg ([e2cb2b3](https://github.com/ScottGibb/Drawio-Libraries/commit/e2cb2b33db82f1e117acac262ad5853f199f670f))
+* Update Version Control.xml ([6001f25](https://github.com/ScottGibb/Drawio-Libraries/commit/6001f25614046d5d8343573326d84cdce410e7e1))
+
 ## [1.2.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.1.0...v1.2.0) (2026-01-27)
 
 ### Features
