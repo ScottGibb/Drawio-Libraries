@@ -2,7 +2,6 @@
 
 ## [1.3.0](https://github.com/ScottGibb/Drawio-Libraries/compare/v1.2.0...v1.3.0) (2026-10-16)
 
-
 ### Features
 
 * add Capacitive Soil Moisture Sensor ([1342dd3](https://github.com/ScottGibb/Drawio-Libraries/commit/1342dd3ef4878a03644a9591ee0cf3f54fd3bdff))
@@ -14,7 +13,6 @@
 * add WEMOS ESP8266 ([18650be](https://github.com/ScottGibb/Drawio-Libraries/commit/18650be327c4622c17a84b859e09a94e4951250e))
 * Update Docker.xml ([9f0f682](https://github.com/ScottGibb/Drawio-Libraries/commit/9f0f682b5b1eb20f4cabd73bd5f2ac15dcd3c474))
 * Update Docker.xml ([195bb12](https://github.com/ScottGibb/Drawio-Libraries/commit/195bb1245ac89716eec66fbd4c5eba98e664a4f5))
-
 
 ### Bug Fixes
 
